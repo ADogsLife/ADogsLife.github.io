@@ -44,16 +44,16 @@ html
 		margin: auto;	
 		text-align:center;
 		position: relative;
-		bottom: 130px;
+		bottom: 0;
 		left: 50px;
 		}
 	#appointment {	padding-left:10px;}		
 	#faq {	position: relative;
 			float: right;
 			width: 27%}
-	#text{
+	#text{	font-size: 12px;
 		position: relative;
-		top: 50px;
+		top: 20px;
 		left: 50px;	
 	}
 	#link{
